@@ -5,7 +5,10 @@ import "./styles/app.scss"
 
 // import components
 import Player from "./components/Player"; 
-import Song from "./components/Song"
+import Song from "./components/Song";
+
+// import util
+import data from "./util";
 
 function App() {
   return (
